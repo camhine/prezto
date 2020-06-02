@@ -13,4 +13,3 @@ fi
 # Customize to your needs...
 
 . $HOME/.asdf/asdf.sh
-. $HOME/.asdf/completions/asdf.bash
