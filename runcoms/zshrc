@@ -13,3 +13,5 @@ fi
 # Customize to your needs...
 
 . $HOME/.asdf/asdf.sh
+
+PATH="$PATH:/snap/bin"
